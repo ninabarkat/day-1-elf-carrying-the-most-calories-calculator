@@ -1,1 +1,2 @@
-# day-1-elf-carrying-the-most-calories-calculator
+# Advent of Code - Day 1
+Calculate which elf carries the most snacks
