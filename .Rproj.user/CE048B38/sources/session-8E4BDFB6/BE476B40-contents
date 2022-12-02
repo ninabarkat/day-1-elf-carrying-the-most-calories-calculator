@@ -1,0 +1,6 @@
+## Choose input file; read each 
+myFile <- read.delim(file.choose())
+
+myFile
+
+
